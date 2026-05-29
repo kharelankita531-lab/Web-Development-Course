@@ -1,0 +1,32 @@
+/* p {
+    color: red;
+    background-color: beige;
+    font-size: 20px;
+}
+
+h1 {
+    color: bisque;
+    background-color: rgb(4, 46, 107);
+
+}
+
+body {
+    background-color: rgb(146, 187, 144);
+
+} */
+/* h1,
+p {
+    color: blue;
+} */
+h1 {
+    color: rgb(218, 126, 60);
+    background-color: rgb(140, 198, 235);
+}
+
+p {
+    color: rgb(5, 200, 135);
+}
+
+span {
+    color: blue;
+}
